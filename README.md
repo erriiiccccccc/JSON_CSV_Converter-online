@@ -1,5 +1,9 @@
-# **JSON_CSV_Converter**
-***Converts JSON data to CSV format using a web application built with Java, Python and Eclipse.***
+<h1 align="center">✨ JSON_CSV_Converter ✨</h1>
+
+<p align="center">
+  <b><small>Converts JSON data to CSV format using a web application built with Java, Python and Eclipse </small></b>
+</p>
+
 ![JSON_CSV_CONVERTER_ss](https://github.com/erriiiccccccc/JSON_CSV_Converter-online/assets/90021527/ea3877eb-24ec-444e-99ff-d6c3b95d5b68)
 
 ## Table of Contents ##
