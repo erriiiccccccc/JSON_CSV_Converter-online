@@ -14,7 +14,7 @@
 5. Usage
 
 ## Introduction
-The JSON to CSV Converter is a web application built using Java and Python that allows you to convert JSON data to CSV format. This project is intended to provide a convenient way of transforming structured data between these formats, making it easier to work with data across different systems.
+The JSON to CSV Converter is a web application built using Java and Python that allows you to convert JSON data to CSV format. This project is intended to provide a convenient way of transforming structured data between these formats, making it easier to work with data across different systems. I used this to access scraped data from OpenSanction specifically because their JSON file is too large to be opened.
 
 ## Features
 1. Converts JSON data to CSV format.
